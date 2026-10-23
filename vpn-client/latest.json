@@ -1,7 +1,7 @@
 {
-  "version": "0.8.17",
-  "url": "https://updates.huelpert-gruppe.de/vpn-client/files/Hülpert VPN Client_0.8.17_x64-setup.exe",
-  "sha256": "0C3371591824951438C331A79A886354396387DB499A1ACA26A76549301ACF04",
+  "version": "0.8.25",
+  "url": "https://updates.huelpert-gruppe.de/vpn-client/files/Hülpert VPN Client_0.8.25_x64-setup.exe",
+  "sha256": "0EEBB2A88E30D1D1697619660794E45B2E167B96CC668C5271EB09D1A1D4DEE3",
   "notes": "VPN Client",
   "mandatory": true,
   "minVersion": "0.8.17"
