@@ -1,7 +1,7 @@
 {
-  "version": "0.81.3",
-  "url": "https://updates.huelpert-gruppe.de/netbird/files/netbird_installer_0.81.3_windows_amd64.msi",
-  "sha256": "E378B2788E3586CC1D8C8199FB0C733D428BB77D971A0571911AC4B99757044A",
+  "version": "0.81.4",
+  "url": "https://updates.huelpert-gruppe.de/netbird/files/netbird_installer_0.81.4_windows_amd64.msi",
+  "sha256": "55E702023D93A39A5FED322C7BF67CAD16EA4B6FDB5CC747315256BA98E227CA",
   "notes": "Netbird Client",
   "mandatory": false,
   "minVersion": "0.81.3"
