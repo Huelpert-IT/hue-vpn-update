@@ -1,14 +1,14 @@
 {
   "component": "netbird",
   "channel": "beta",
-  "version": "0.82.1",
+  "version": "0.83.1",
   "url": "https://updates.huelpert-gruppe.de/netbird/files/netbird_installer_0.83.1_windows_amd64.msi",
   "sha256": "303A0A21F86C17AFCA19F0501C6EBA2B77635BDD8EC9BE0B2C113AF6E0635290",
   "notes": "Netbird DEV Client",
   "mandatory": false,
   "minVersion": "0.82.0",
   "previous": {
-    "version": "0.82.0",
+    "version": "0.82.1",
     "url": "https://updates.huelpert-gruppe.de/netbird/files/netbird_installer_0.82.1_windows_amd64.msi",
   "sha256": "090EC26369FB689DAA1BA89222D6B9EF0D74B265E22576BB507D8ABB6EEEC3A8"
   }
