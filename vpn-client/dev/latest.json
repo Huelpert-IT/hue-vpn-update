@@ -2,8 +2,8 @@
   "component": "client",
   "channel": "dev",
   "version": "0.9.4",
-  "url": "https://updates.huelpert-gruppe.de/vpn-client/files/Hülpert VPN Client_0.9.4_x64-setup.exe",
-  "sha256": "667AE3578674C9B8F982A5D2CA0C5213326F9240B3BE61C8842649C1248C1F1E",
+  "url": "https://updates.huelpert-gruppe.de/vpn-client/files/Hülpert VPN Client_0.10.0_x64-setup.exe",
+  "sha256": "45361C82287C12CD7B1E8E769918D86510CB8FC13BCCCAC23CF299357516C6B8",
   "notes": "VPN DEV Client",
   "mandatory": false,
   "minVersion": "0.9.0"
