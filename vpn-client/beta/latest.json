@@ -3,7 +3,7 @@
   "channel": "beta",
   "version": "0.10.0",
   "url": "https://updates.huelpert-gruppe.de/vpn-client/files/Hülpert VPN Client_0.10.0_x64-setup.exe",
-  "sha256": "45361C82287C12CD7B1E8E769918D86510CB8FC13BCCCAC23CF299357516C6B8",
+  "sha256": "966D8C107272EEEE324788A053F2583ABEDA77EFD62FC8873FB12EA3E45B1EC0",
   "notes": "VPN Beta Client",
   "mandatory": false,
   "minVersion": "0.9.0"
